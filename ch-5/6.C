@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int o,b,c;
+	clrscr();
+	printf("enter of velyu o:");
+	scanf("%d",&o);
+	printf("enter of velyu b:");
+	scanf("%d",&b);
+
+	c=o;
+	o=b;
+	b=o;
+	printf("\n ans is %d",o,b);
+	getch();
+
+
+}
