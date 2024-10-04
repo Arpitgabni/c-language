@@ -10,7 +10,7 @@ main()
 	scanf("%d",&y);
 
 	a=(x+y)*(x+y);
-	printf("\n ans is %d",&a);
+	printf("\n ans is %d",a);
 	getch();
 
 
