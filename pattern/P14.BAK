@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{       int i,j;
+	char 'a';
+	clrscr();
+	for(i='A';i<='I';i++)
+	{
+		for(j='I';j<='E';j++)
+		{
+			printf("%c",'a');
+		}
+		printf("\n");
+	}
+	getch();
+}

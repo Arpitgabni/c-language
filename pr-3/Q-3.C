@@ -1,0 +1,23 @@
+
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int a,b,c,d;
+	clrscr();
+	printf("enter any number:");
+	scanf("%d",&a);
+	c=a%10;
+	do
+	{
+
+	a/=10;
+	}
+	while(a>=10);
+
+	b=a;
+
+	d=b+c;
+	printf("frist and last digits sum %d\n",d);
+	getch();
+}
