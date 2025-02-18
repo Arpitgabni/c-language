@@ -18,10 +18,9 @@ main()
 
 
 	d=a+b+c;
-	printf("%dtotal mark
-	",d);
+	printf("%d is total mark",d);
 	e=d/3;
-	printf("%f your result",e);
+	printf("%.2f your result",e);
 	getch();
 
 
