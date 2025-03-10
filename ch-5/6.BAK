@@ -12,7 +12,7 @@ main()
 	c=o;
 	o=b;
 	b=o;
-	printf("\n ans is %d",o,b,);
+	printf("\n ans is %d",o,b);
 	getch();
 
 

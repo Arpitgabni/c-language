@@ -1,4 +1,4 @@
-<stdio.h>
+#include<stdio.h>
 #include<conio.h>
 main()
 {
@@ -9,7 +9,7 @@ main()
 	printf("enter of velyu y");
 	scanf("%d",&y);
 
-	a=(x+y)*(x+y)*(x+y);
+	a=(x+y)*(x+y)*(x+y)N;
 	printf("\n ans is %d",&a);
 	getch();
 

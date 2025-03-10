@@ -1,0 +1,11 @@
+	odd number :  2
+ 	odd number :  4
+ 	odd number :  6
+ 	odd number :  8
+ 	odd number :  10
+ odd number :  12
+ odd number :  14
+ odd number :  16
+ odd number :  18
+ odd number :  20
+ 
